@@ -1,0 +1,31 @@
+# Folder node_modules
+node_modules
+
+# Folder build atau distribusi
+dist
+build
+
+# File-file sistem operasi
+.DS_Store
+Thumbs.db
+
+# File-file log
+*.log
+
+# File-file konfigurasi lokal
+.env
+.localrc
+
+# File-file sementara
+*.tmp
+temp/
+
+# Editor/IDE files (opsional, sesuaikan dengan editor/IDE yang Anda gunakan)
+.idea/      # IntelliJ IDEA
+.vscode/    # VS Code
+.DS_Store
+
+# Package manager files (opsional, tergantung package manager yang Anda gunakan)
+package-lock.json   # npm
+yarn.lock         # Yarn
+pnpm-lock.yaml    # pnpm
